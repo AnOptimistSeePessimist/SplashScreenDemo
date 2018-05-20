@@ -98,9 +98,11 @@ public class MainActivity extends ReactActivity {
 ```
 ##### 8.  生成 android 和 ios 的 app 图标和启动图相关网站，这里就差亲给张图来生成相关图标了：
 
-> (推荐)1. 自动生成各种分辨率 app 图标和启动屏的网站(最好上传 1024 * 1024 像素的图片可以获得最佳效果)，图标一键生成网站：https://icon.wuruihong.com/
+> (推荐)1. 自动生成各种分辨率 app 图标和启动屏的网站(最好上传 1024 * 1024 像素的图片可以获得最佳效果)，该网站 IOS 的 AppIcon 的导入教程。
+  图标一键生成网站：https://icon.wuruihong.com/
 
 > 2.  Mac 中下面这款软件也不错：
+
 ![QQ20180520-204334.png](https://upload-images.jianshu.io/upload_images/11627544-94c528f23deaa780.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
