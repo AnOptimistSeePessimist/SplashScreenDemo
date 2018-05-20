@@ -124,7 +124,7 @@ https://icon.wuruihong.com/guide/android
 ![QQ20180520-195017.png](https://upload-images.jianshu.io/upload_images/11627544-cf79358b6e34cc3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-（2）设置新建的 LaunchImage 生效：
+（2）设置新建的 LaunchImage 生效(设置生效之前先执行下一步，将图片放上去)：
 
  ![QQ20180520-193832.png](https://upload-images.jianshu.io/upload_images/11627544-793e3d23a7dbb2e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
