@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#000</color>
+    <!-- 这句绝不能删除，这个配置可以用来设置主题 -->
+    <color name="primary_dark">#000000</color>
+</resources>
