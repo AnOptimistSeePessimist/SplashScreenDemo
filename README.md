@@ -1,13 +1,13 @@
 # SplashScreenDemo(包括 APP 图标生成)
 
 
-#####1.  下载
+##### 1.  下载
 `npm i react-native-splash-screen --save` 或者 `yarn add react-native-splash-screen`
 
-#####2. 安装(link 不成功的话，建议查看官网手动安装,到达该步骤后 ios 配置已经完成，从第三步开始为 android 的额外配置)
+##### 2. 安装(link 不成功的话，建议查看官网手动安装,到达该步骤后 ios 配置已经完成，从第三步开始为 android 的额外配置)
 `react-native link`
 
-#####3.  在 MainActivity.java 中添加以下代码：
+##### 3.  在 MainActivity.java 中添加以下代码：
 ```
 package com.splashscreendemo;
 // 添加以下代码
@@ -27,7 +27,7 @@ public class MainActivity extends ReactActivity {
     ...
 }
 ```
-#####4. 在`android/app/src/main/res` 下创建 `layout` 文件夹，在 `layout` 文件夹下创建 `launch_screen.xml`
+##### 4. 在`android/app/src/main/res` 下创建 `layout` 文件夹，在 `layout` 文件夹下创建 `launch_screen.xml`
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -41,7 +41,7 @@ public class MainActivity extends ReactActivity {
 -->
 ```
 
-#####5. 在 `android/app/src/main/res/values` 文件夹下创建 `colors.xml`
+##### 5. 在 `android/app/src/main/res/values` 文件夹下创建 `colors.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
@@ -50,7 +50,7 @@ public class MainActivity extends ReactActivity {
     <color name="primary_dark">#000000</color>
 </resources>
 ```
-#####6.  在 `android/app/src/main/res/values/styles.xml` 文件下加入以下代码：
+##### 6.  在 `android/app/src/main/res/values/styles.xml` 文件下加入以下代码：
 
 ```
 <resources>
@@ -63,7 +63,7 @@ public class MainActivity extends ReactActivity {
 </resources>
 ```
 
-#####7. 在 AndroidManifest.xml 中加入如下代码(到此 android 额外配置完毕)：
+##### 7. 在 AndroidManifest.xml 中加入如下代码(到此 android 额外配置完毕)：
 
 ```
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -96,7 +96,7 @@ public class MainActivity extends ReactActivity {
     </application>
 </manifest>
 ```
-8.  生成 android 和 ios 的 app 图标和启动图相关网站，这里就差亲给张图来生成相关图标了：
+##### 8.  生成 android 和 ios 的 app 图标和启动图相关网站，这里就差亲给张图来生成相关图标了：
 
 > (推荐)1. 自动生成各种分辨率 app 图标和启动屏的网站(最好上传 1024 * 1024 像素的图片可以获得最佳效果)，图标一键生成网站：https://icon.wuruihong.com/
 > 2.  Mac 中下面这款软件也不错：
@@ -105,14 +105,14 @@ public class MainActivity extends ReactActivity {
 
 
 
-#####9.1 android app 图标配置  和 android 启动屏配置，如下图所示：
+##### 9.1 android app 图标配置  和 android 启动屏配置，如下图所示：
 
 ![QQ20180520-161600.png](https://upload-images.jianshu.io/upload_images/11627544-2fb7f67961c28a09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-#####9.2 iOS app 图标配置 和 启动屏配置：
+##### 9.2 iOS app 图标配置 和 启动屏配置：
 
-######9.2.1 启动屏配置
+###### 9.2.1 启动屏配置
 
 （1）如下图所示，新建一个LaunchImage：
 ![QQ20180520-195017.png](https://upload-images.jianshu.io/upload_images/11627544-cf79358b6e34cc3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
