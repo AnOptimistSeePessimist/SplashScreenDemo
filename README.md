@@ -109,6 +109,9 @@ public class MainActivity extends ReactActivity {
 
 
 ##### 9.1 android app 图标配置  和 android 启动屏配置，如下图所示：
+其中配置android app 图标可参考下面网站：
+
+https://icon.wuruihong.com/guide/android
 
 ![QQ20180520-161600.png](https://upload-images.jianshu.io/upload_images/11627544-2fb7f67961c28a09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -130,14 +133,7 @@ public class MainActivity extends ReactActivity {
 ![QQ20180520-205743.png](https://upload-images.jianshu.io/upload_images/11627544-1d24e7f0e368237c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+##### 9.2.2 ios AppIcon 配置，参考如下网站：
 
-
-
-
-
-
-
-
-
-
+https://icon.wuruihong.com/guide/ios
 
