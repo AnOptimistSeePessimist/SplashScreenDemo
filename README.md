@@ -125,7 +125,7 @@ public class MainActivity extends ReactActivity {
 
 （3） LaunchImage所需的图片尺寸
 
-![QQ20180520-205743.png](https://upload-images.jianshu.io/upload_images/11627544-b28933bc2bea9690.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![QQ20180520-205743.png](https://upload-images.jianshu.io/upload_images/11627544-1d24e7f0e368237c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
