@@ -137,3 +137,13 @@ https://icon.wuruihong.com/guide/android
 
 https://icon.wuruihong.com/guide/ios
 
+##### 10. 在 App.js 中添加以下代码：
+
+```
+import SplashScreen from 'react-native-splash-screen'
+
+componentDidMount (){
+    SplashScreen.hide();
+}
+
+```
