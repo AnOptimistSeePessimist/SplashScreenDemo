@@ -1,5 +1,5 @@
 # SplashScreenDemo(包括 APP 图标生成)
-
+### https://www.jianshu.com/p/f169dd6cba98
 
 ##### 1.  下载
 `npm i react-native-splash-screen --save` 或者 `yarn add react-native-splash-screen`
